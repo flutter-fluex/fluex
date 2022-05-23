@@ -1,4 +1,4 @@
-import 'package:fluex/src/base/plugin.dart';
+import 'base.dart';
 
 class MissingFluexPluginException implements Exception {
   final String _message;

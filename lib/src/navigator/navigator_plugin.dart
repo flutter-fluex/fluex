@@ -1,5 +1,4 @@
-import '../base/plugin.dart';
-
+import '../base.dart';
 import 'base.dart';
 import 'navigator.dart';
 

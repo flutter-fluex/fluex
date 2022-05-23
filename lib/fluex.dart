@@ -1,7 +1,7 @@
-import 'package:fluex/src/exceptions.dart';
+import 'src/base.dart';
+import 'src/exceptions.dart';
 
-import 'src/base/plugin.dart';
-
+export 'src/base.dart';
 export 'src/plugins.dart';
 export 'src/extensions.dart';
 export 'src/exceptions.dart';

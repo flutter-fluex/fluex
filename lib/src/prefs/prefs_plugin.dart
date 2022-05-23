@@ -2,7 +2,7 @@ import 'package:shared_preferences/shared_preferences.dart' as sp;
 
 import 'prefs.dart';
 
-import '../base/plugin.dart';
+import '../base.dart';
 
 class FluexSharedPreferencesPlugin implements FuturePlugin<FluexSharedPreferences> {
   @override

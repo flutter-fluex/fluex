@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
 
-import '../base/plugin.dart';
+import '../base.dart';
 
 class FluexDioPlugin implements Plugin<Dio> {
   final String? baseUrl;
