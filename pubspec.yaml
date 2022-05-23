@@ -1,7 +1,7 @@
 name: fluex
 description: Flutter插件式管理框架
 version: 1.0.0
-homepage:
+homepage: https://github.com/flutter-fluex/fluex.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
