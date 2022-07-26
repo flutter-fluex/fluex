@@ -1,6 +1,6 @@
 name: fluex
-description: Flutter插件式管理框架
-version: 1.0.0
+description: fluex is a plugin manager framework.
+version: 1.0.1
 homepage: https://github.com/flutter-fluex/fluex.git
 
 environment:
